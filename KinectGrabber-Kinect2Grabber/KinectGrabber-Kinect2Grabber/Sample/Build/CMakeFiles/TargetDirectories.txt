@@ -1,0 +1,3 @@
+C:/Users/dbstn/Desktop/PCL/PCLProject/KinectGrabber-Kinect2Grabber/KinectGrabber-Kinect2Grabber/Sample/Build/CMakeFiles/sample.dir
+C:/Users/dbstn/Desktop/PCL/PCLProject/KinectGrabber-Kinect2Grabber/KinectGrabber-Kinect2Grabber/Sample/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/dbstn/Desktop/PCL/PCLProject/KinectGrabber-Kinect2Grabber/KinectGrabber-Kinect2Grabber/Sample/Build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dbstn\Desktop\PCL\PCLProject\OpenNIGrabber\Build\CMakeFiles\2bb2f264f104bbdf8b28e47e3602bdc3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2FE4128A-26EA-384A-BE94-B3A26245ADF4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

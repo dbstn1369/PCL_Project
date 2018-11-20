@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\dbstn\Desktop\PCL\PCLProject\KinectGrabber-Kinect2Grabber\KinectGrabber-Kinect2Grabber\Sample\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\dbstn\Desktop\PCL\PCLProject\KinectGrabber-Kinect2Grabber\KinectGrabber-Kinect2Grabber\Sample\kinect2_grabber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dbstn\Desktop\PCL\PCLProject\KinectGrabber-Kinect2Grabber\KinectGrabber-Kinect2Grabber\Sample\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CEF9850D-0816-3B7C-A08B-48000D60934A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F3822B54-3A45-3A0B-ADCC-8861460E66FA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

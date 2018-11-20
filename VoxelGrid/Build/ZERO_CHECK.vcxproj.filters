@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dbstn\Desktop\PCL\PCLProject\VoxelGrid\Build\CMakeFiles\b1c2b436d58f9b9358bd9bd5f22c5ecd\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{940876E6-B3CA-3BC0-9FDA-94926D963EB9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
